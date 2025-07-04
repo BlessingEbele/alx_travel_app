@@ -149,7 +149,8 @@ python manage.py test
 
 - **Blessing Ebele Anochili**  
   Software Developer | Python & Django Enthusiast  
-  [GitHub]https://github.com/BlessingEbele • [LinkedIn] https://www.linkedin.com/in/blessing-ebele-anochili
+  • [GitHub]https://github.com/BlessingEbele
+  • [LinkedIn] https://www.linkedin.com/in/blessing-ebele-anochili
 
 ---
 
